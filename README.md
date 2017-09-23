@@ -1,0 +1,3 @@
+# MyRequests
+
+Laravel Requests Implementation
